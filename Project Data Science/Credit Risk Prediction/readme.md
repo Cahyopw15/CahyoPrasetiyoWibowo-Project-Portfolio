@@ -45,6 +45,25 @@ After tuning, all models effectively transitioned into a **Good Fit** status.
 
 ---
 
+### Recommendation
+1. Operational Solutions (Risk Management)
+DTI Cap & Term Filters: Limit the maximum Debt-to-Income (DTI) ratio to 15% for low-income borrowers and tighten credit scoring thresholds specifically for high-risk 60-month terms.
+
+Direct Pay Feature: For debt consolidation loans (>58% of cases), disburse funds directly to the destination financial institutions instead of giving cash to the borrower to prevent misuse.
+
+2. Technological Innovations (Data & Modeling)
+Alternative Data Integration: Feed alternative data (e-commerce behavior, utility bills, digital wallets) into the XGBoost model to significantly improve its default-detection sensitivity (Recall).
+
+Automated Decision Engine: Deploy the trained XGBoost model as a real-time, automated approval system to speed up preliminary risk screening.
+
+3. Strategic Business Recommendations (Stakeholders)
+Target Grade A/B Borrowers: Launch premium, low-interest products tailored to Grade A and B segments, as they have proven to have the lowest default rates.
+
+Risk-Based Provisioning (IFRS 9): Utilize the model's default probability outputs to calculate the company's Expected Credit Loss (ECL) and optimize financial reserve allocations.
+
+---
+
+
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost, Jupyter Notebook
