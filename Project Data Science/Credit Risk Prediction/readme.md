@@ -46,7 +46,6 @@ After tuning, all models effectively transitioned into a **Good Fit** status.
 ---
 
 ### Recommendation
-
 1. Operational Solutions (Risk Management)
 DTI Cap & Term Filters: Limit the maximum Debt-to-Income (DTI) ratio to 15% for low-income borrowers and tighten credit scoring thresholds specifically for high-risk 60-month terms.
 
